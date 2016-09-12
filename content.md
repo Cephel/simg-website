@@ -12,6 +12,8 @@ Contains A-7E, F-15E, FA-18A, FA-18C, J-10A, MiG-23MLD, MiG-25PD, MiG-27K, MiG-3
 Turns your Steam installation into a hybrid, compatible with both 3rd party and Steam modules. Also enables you to switch to and from open beta when desired. Full Steam integration is retained.
 ###[Desert Mod](http://www.mediafire.com/download/3926l2ufta7dn62/DCSDESERT3.0NONFUCKED.zip)
 The nonfucked version. Basically turns the Caucasus map into Afghanistan, we use it for some missions.
+###[/simg/ liveries](https://drive.google.com/drive/u/0/folders/0B4UV1HVq5oDDNjRPd3JHVzVKaTg)
+Collection of new skins for the planes we use.
 
 ##Ground texture improvements
 ###[GROUND TEXTURES MOD v6.5](https://drive.google.com/file/d/0Byvd0LOGR5KldkptTC0xVnk4Z3c/view)
