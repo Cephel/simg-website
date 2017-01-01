@@ -16,7 +16,7 @@ The nonfucked version. Basically turns the Caucasus map into Afghanistan, we use
 Collection of new skins for the planes we use.
 
 ##Ground texture improvements
-###[GROUND TEXTURES MOD v6.5](https://drive.google.com/file/d/0Byvd0LOGR5KldkptTC0xVnk4Z3c/view)
+###[GROUND TEXTURES MOD v7.0](https://drive.google.com/open?id=0Byvd0LOGR5KlTzlPZVdBMDZ0Rms)
 ###[Caucasus Texture DLC](http://forums.eagle.ru/showthread.php?t=167780)
 ####[Comparison video](https://drive.google.com/file/d/0Byvd0LOGR5KlcWVVdkZ1dVdJMTQ/preview)
 ###[PicksKing Modded Texture Compilation v2.2](https://forums.eagle.ru/showthread.php?t=172740)
