@@ -2,7 +2,7 @@
 ###[OvGME - Enhanced Generic Mod Enabler and manager](https://github.com/sedenion/ovgme)
 Allows for easy enabling and disabling of mods. Avoids having to go through the game folder and replace files yourself. Now also actually a non-botnet version, ie. open-source.
 ###[General](http://nogf.moe/generals-finder/simg)
-Click on the link to go to the latest /vg/ general.
+Click on the link to go to the latest /vg/ general. You can also bookmark this.
 
 ##Homebrew mods
 ###[Flyables v1.4](https://drive.google.com/file/d/0B3oCLamo6K_NSmxkNkFFSFA3dFE/view)
