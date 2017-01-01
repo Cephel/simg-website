@@ -21,7 +21,7 @@ Collection of new skins for the planes we use.
 ####[Comparison video](https://drive.google.com/file/d/0Byvd0LOGR5KlcWVVdkZ1dVdJMTQ/preview)
 ###[PicksKing Modded Texture Compilation v2.2](https://forums.eagle.ru/showthread.php?t=172740)
 This one is a combination of the above two texture packs with some tweaks. Tries to take the best from both and combine it. Your mileage may vary.
-###[BarWays Compilation](https://forums.eagle.ru/showthread.php?t=178494)
+###[BarWays Compilation v3](https://forums.eagle.ru/showthread.php?t=178494)
 Same concept as the mod above it, except better, use this one if you don't know which one to pick.
 
 ##HOTAS buying guide
