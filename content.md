@@ -3,6 +3,7 @@
 Allows for easy enabling and disabling of mods. Avoids having to go through the game folder and replace files yourself. Now also actually a non-botnet version, ie. open-source.
 ###[General](http://nogf.moe/generals-finder/simg)
 Click on the link to go to the latest /vg/ general. You can also bookmark this.
+###[IL-2 Squad join link](http://il2stat.aviaskins.com:8008/en/squad/join/88/2zrX7qk145wpp2FV4xx4E1z2OA3idk5pa9llTi7Q)
 
 ##Homebrew mods
 ###[Flyables v1.4](https://drive.google.com/file/d/0B3oCLamo6K_NSmxkNkFFSFA3dFE/view)
